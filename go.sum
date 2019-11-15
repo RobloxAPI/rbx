@@ -1,0 +1,8 @@
+github.com/anaminus/but v0.2.0 h1:UPKY6UtvTZH8seod0rfVRsQxP8qssz+P6VE9a2AYeNY=
+github.com/anaminus/but v0.2.0/go.mod h1:44z5qYo/3MWnZDi6ifH3IgrFWa1VFfdTttL3IYN/9R4=
+github.com/dave/jennifer v1.3.0 h1:p3tl41zjjCZTNBytMwrUuiAnherNUZktlhPTKoF/sEk=
+github.com/dave/jennifer v1.3.0/go.mod h1:fIb+770HOpJ2fmN9EPPKOqm1vMGhB+TwXKMZhrIygKg=
+github.com/robloxapi/rbxapi v0.1.0 h1:xcve5EgsdXRBfRu6e5y03lHbcELkAjTuRCDw8OX060I=
+github.com/robloxapi/rbxapi v0.1.0/go.mod h1:YOxBbPE55ssodC1fGi8urHCDwntYrJg9FVjyY3sRX5o=
+github.com/robloxapi/rbxdhist v0.1.0 h1:zFHuAd/fYxKKRgko8giFrJE87wKbiMfkMC99IcQUHq0=
+github.com/robloxapi/rbxdhist v0.1.0/go.mod h1:LDwGu1rAliCi600a4apj6L1Uo7wiPPko+NA1RU/fHsM=
